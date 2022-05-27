@@ -1,0 +1,1 @@
+A MERN Application to share your thoughts, memories and all your fun.
